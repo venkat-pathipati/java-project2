@@ -9,6 +9,6 @@ public class ReverseNumber {
             number = number / 10;      // remove last digit
         }
 
-        System.out.println("Reversed Number: " + reversed);
+        System.out.println("Reversed Number 1: " + reversed);
     }
 }
